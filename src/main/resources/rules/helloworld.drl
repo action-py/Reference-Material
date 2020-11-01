@@ -1,0 +1,8 @@
+package helloworld
+
+rule "helloworld"
+    when
+        eval(true)
+    then
+        System.err.println("这是一个测试");
+end
