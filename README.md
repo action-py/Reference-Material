@@ -9,6 +9,7 @@
     https://pan.baidu.com/s/1oZFiBYpFTHgTxOCPVqKIBw
     fbgg
     https://www.ycbbs.vip/
+    https://www.ycbbs.vip/?page_id=2571
 
 
 Spring WebFlux
